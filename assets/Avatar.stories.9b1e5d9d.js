@@ -1,0 +1,2 @@
+import{A as t}from"./index.1594c560.js";import"./index.f05c6fdc.js";import"./iframe.ca4520af.js";import"./index.b7ee401a.js";import"./jsx-runtime.54b30f5c.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/MathMendesReis.png",alt:"Diego Fernandes"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.9b1e5d9d.js.map
